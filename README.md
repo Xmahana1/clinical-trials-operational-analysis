@@ -35,7 +35,7 @@ The objective is to understand how structural and operational factors impact cli
 ---
 
 ## 📁 Dataset
-Clinical trials dataset (ClinicalTrials.gov)
+Public dataset from ClinicalTrials.gov
 
 ---
 
@@ -51,4 +51,5 @@ This analysis helps identify operational bottlenecks in clinical trials, enablin
 ---
 
 ## 👤 Author
-José Enrique Piñango
+José Enrique Piñango  
+Data Analyst | Clinical Research Enthusiast
